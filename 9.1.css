@@ -1,0 +1,169 @@
+a.navbar-brand{color: gold !important;
+font-style: italic !important;
+font-family: sofia;}
+
+div.div1{
+    text-align: center;
+    background-image: url(bg1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    background-attachment: fixed;
+}
+
+p.tittle1{
+    font-style: italic ;
+    font-size: 50;
+    text-align: center;
+    padding-top: 15%;
+    color: white;
+    font-family: serif;
+}
+
+h1.tittle1{
+    font-size: 100;
+    text-align: center;
+    color: white;
+    font-family: fantasy;
+}
+
+button.btn-warning{color: white !important;}
+
+div.services{
+    height: 80%;
+    padding: 3%;
+    text-align: center;
+}
+
+i.fas1{
+    padding: 10%;
+    color: white;
+background-color: gold;
+border-radius: 100%;
+font-size: 5rem;}
+
+.font1{font-family: serif;}
+
+
+div.portfolio{
+    background-color: cornsilk;
+    padding: 3%;
+    text-align: center;
+}
+
+.card1{text-align: center;
+border-bottom-color: transparent;}
+
+
+h3.t1{color: black;}
+
+p.t1{color: black;}
+
+div.divcard1{margin-top: 3%;}
+
+div.card1{height: 100%;}
+
+img.card-img-top{width: 100% !important;}
+
+div.about{padding: 3%;
+    text-align: center;}
+
+img.img1{width: 100%;
+height: 100%;}
+
+.rtl{text-align: right}
+
+.ltr{text-align: left}
+
+div.team{padding: 3%;
+    text-align: center;
+background-color: azure;}
+
+img.img2{
+    
+    width: 100%;
+   display: block;
+    height: 400px;
+}
+
+i.fas2{color: white;
+    margin-left: 5%;
+    padding: 3%;
+    border-radius: 100%;
+background-color: black;}
+
+footer.footer1{background-color: white;
+padding: 3%;
+    text-align: center;
+/*width: 1450px;
+margin-top: 5%;*/}
+
+img.img3{margin-left: 7%;}
+
+div.contact{padding: 3%;
+    text-align: center;
+    background-image: url(map.jpg)}
+h1.contact{color: white;}
+p.contact{color: darkgrey;}
+
+img.img4{
+    border-radius: 50%;
+width: 100%;
+}
+
+/* From bootstrap.css */
+.form-group {
+        margin-bottom: 0px;
+}
+
+@media (max-width: 543px) {
+    .mydivs { 
+    height: 33.3%;
+    }
+    }
+
+     @media (min-width: 544px) {  
+    .mydivs{ height: 33.3%; }
+    }
+
+.team{
+    margin-left: 20px;
+}
+
+figcaption.hover1{text-align: center;
+    background-color:#FFF8DC !important;}
+
+i.i1{color: black;}
+
+div.c5{margin-left: 16%;}
+
+i.fas3{font-size: 5rem;
+margin-top: 20%;}
+
+button.btn3{
+    color: white;
+    background-color: #1ABC9C
+}
+.btn3:hover{
+    background-color:#236D58; 
+}
+
+div.modal-content{text-align: center;}
+
+hr.hr6{
+    background-color: black;
+    width: 10%;
+    height: 3px;
+    margin-bottom: 10px;
+    display: inline-block;
+}
+
+i.fas6{font-size: 1.5rem;}
+
+hr.hr7{
+    background-color: black;
+    width: 10%;
+    height: 3px;
+    margin-bottom: 10px;
+    display: inline-block;
+}
